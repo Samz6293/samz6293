@@ -33,9 +33,7 @@ A digital artist turned full-stack developer. Before software, my world was phot
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samz6293&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<details>
-<summary><h1>📖 My Journey</h1></summary>
-<br>
+## 📖 More About Me
 
 My journey into tech didn't start with an immediate passion — it started with frustration. As a CSE student, traditional classroom lectures felt uninspired, eventually pushing me to take a full year off from university.
 
@@ -45,6 +43,5 @@ That spark led me down the self-taught rabbit hole. The Odin Project introduced 
 
 After finishing TOP Fundamentals, I wanted an intensive, structured environment to take full-stack development to the next level, which led me straight into Programming Hero's AI-Driven Full-Stack bootcamp. Been loving the craft ever since.
 
-</details>
 
 
