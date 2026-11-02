@@ -12,6 +12,24 @@ A digital artist turned full-stack developer. Before software, my world was phot
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Samz6293/ph-assignment-8-client">
+        <img src="assets/hero-beacon.png" alt="Beacon" width="100%" />
+      </a>
+      <h3>Beacon</h3>
+      <p>Community board to find, host and join social service events across Bangladesh, with light and dark themes.</p>
+      <p><b>Next.js • shadcn/ui • Better Auth • MongoDB</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Samz6293/ph-assignment-7">
+        <img src="assets/hero-bazardor.png" alt="BazarDor" width="100%" />
+      </a>
+      <h3>বাজার দর (BazarDor)</h3>
+      <p>Bangladeshi grocery price tracker showing daily market prices and trends by category.</p>
+      <p><b>Next.js • HeroUI • Better Auth • MongoDB</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/samz6293/overwatch-nextjs">
         <img src="assets/hero-overwatch-nextjs.png" alt="Overwatch Showcase" width="100%" />
       </a>
